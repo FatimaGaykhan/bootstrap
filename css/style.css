@@ -1,0 +1,46 @@
+#template .slide1 {
+    padding: 4rem 0;
+}
+.textcol {
+    padding: 5rem 0;
+}
+.textcol h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+
+}
+.textcol p{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.textcol button{
+    padding: 10px 20px;
+
+}
+.textcol .btn-outline-light{
+    margin-left: 15px;
+}
+.slider2 {
+    padding: 4rem 0;
+
+}
+#text{
+    padding: 4rem 5rem;
+    background-color: #f8f9fa;
+}
+#bluesection .navbar p{
+    color: rgba(151, 186, 255, 1);
+}
+#bluesection .navbar{
+    margin-bottom: 90px;
+}
+footer .about .textall{
+    font-size: 0.875em;
+} 
+
+
+
+
+
+
